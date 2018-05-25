@@ -5,5 +5,5 @@ Wörpel](https://eijc18dataharvest.sched.com/speaker/simon.woerpel)
 
 ## session slides
 - may 25th [find stories in public data](./find-stories-in-open-data.md)
-
-**contribute to the [list of data portals](./data-portals.md)**
+    - **contribute to the [list of data portals](./data-portals.md)**
+- may 27th command line magic (coming soon)
