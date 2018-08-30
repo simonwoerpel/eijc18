@@ -6,7 +6,7 @@ categories: notes
 
 **tl;dr**
 1. create a txt-file with the patterns in it, one per line
-2. grep for the patterns in this file via `grep -fF ids.txt bigcsv.csv`
+2. grep for the patterns in this file via `grep -Ff ids.txt bigcsv.csv`
 
 Recently, [a colleague of mine](https://twitter.com/notknut) found nice data
 that was very useful for an [investigation we are working
